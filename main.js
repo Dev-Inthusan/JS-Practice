@@ -247,6 +247,7 @@ let characterAtIndex15 = haha.charAt(15);
 
 console.log(characterAtIndex15);
 
+
 // 14
 let kaka = 'learn Javascript';
 let charCodeOfJ = kaka.charCodeAt(challenge.indexOf('J'));
@@ -311,12 +312,15 @@ let matches = siu.match(/a/g);
 console.log(matches);
 
 
+
+
 // 24
 let part1 = '30 Days of ';
 let part2 = 'JavaScript';
 let mergedString = part1.concat(part2);
 
 console.log(mergedString);
+
 
 
 
